@@ -1,0 +1,3 @@
+module modularity {
+    requires folderlistener;
+}

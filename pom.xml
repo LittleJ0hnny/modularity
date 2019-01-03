@@ -14,6 +14,12 @@
 
     <dependencies>
 
+        <dependency>
+            <groupId>com.littlejohnny</groupId>
+            <artifactId>folderlistener</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>
